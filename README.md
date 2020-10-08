@@ -16,6 +16,10 @@ Given an image like the example below, our goal is to generate a caption such as
 
 ## For the Result, the project is divided into two parts i.e Image Captioning + Sonnet generation from Image Caption using LSTM RNN in Python with Keras 
 
+## FINAL OUTPUT OF OUR PROJECT
+
+<img src="https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Images/20.jpeg" width="610px" height="530px">
+
 Image captioning code https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Run.py  Run this code for image caption generation.
 
 To accomplish this, I have used an attention-based model, which enables us to see what parts of the image the model focuses on as it generates a caption.
