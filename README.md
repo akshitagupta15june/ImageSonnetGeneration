@@ -144,7 +144,7 @@ The problem is really a single character classification problem with 67 classes 
 ## Giving the image path and storing caption in result variable
 
 
-<img src="https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Images/22.jpeg" width="590px" height="500px">
+<img src="https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Images/22.jpeg" width="590px" height="350px">
 
 
 
@@ -171,11 +171,11 @@ The simplest way to use the Keras LSTM model to make predictions is to first sta
 
 # FINAL RESULTS 
 
-<img src="https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Images/20.jpeg" width="590px" height="500px">
+<img src="https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Images/20.jpeg" width="610px" height="530px">
 
 # ANOTHER RESULT
 
-<img src="https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Images/21.jpeg" width="590px" height="500px">
+<img src="https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Images/21.jpeg" width="610px" height="530px">
 
 
 
