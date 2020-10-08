@@ -18,11 +18,6 @@ Image captioning code https://github.com/akshitagupta15june/ImageSonnetGeneratio
 
 To accomplish this, I have used an attention-based model, which enables us to see what parts of the image the model focuses on as it generates a caption.
 
-Given an image like the example below, our goal is to generate a caption such as
-### "a delicious chocolate cake slice".
-
-<img src="https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Images/COCO_train2014_000000548913.jpg" width="590px" height="350px">
-
 ## SOLUTION ARCHITECTURE
 
 <img src="https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Images/18.jpeg" width="600px" height="400px">
@@ -30,6 +25,11 @@ Given an image like the example below, our goal is to generate a caption such as
 
 
 We have downloaded the MS-COCO dataset https://cocodataset.org/#home , preprocessed it and it caches a subset of images using Inception V3, trains an encoder-decoder model, and generates captions on new images using the trained model.
+
+Given an image like the example below, our goal is to generate a caption such as
+### "a delicious chocolate cake slice".
+
+<img src="https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Images/COCO_train2014_000000548913.jpg" width="590px" height="350px">
 
 ## Image Caption generation Explanation of code run
 
