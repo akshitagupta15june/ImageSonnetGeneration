@@ -182,12 +182,18 @@ The simplest way to use the Keras LSTM model to make predictions is to first sta
 ## As Sonnet is a 14 lines poem so in above results we can see that when user entered a text "sun" the poem which is generated in 14 lines have meaningful words.
 
 
+### Conclusion
+
+project is divided into two parts i.e Image Captioning + Sonnet generation from Image Caption using LSTM RNN in Python with Keras.
+In conclusion, two different approaches were used to generate poems. LSTM networks learned the structures of poems and grammatics of english quite well, however lacked the overall meaning. Nevertheless there were some poems that were somewhat reletable. On the other hand seemed mainly to learn some pairs and triplets of words that were common in the training data. In the sampling phase it managed to form some poems that did not exist in the training data and could interpreted as a original and coherent poetry.
 
 Reference links
 
 https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17
 
 https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/
+
+https://towardsdatascience.com/image-captioning-in-deep-learning-9cd23fb4d8d2
 
 
 Contributors/Team Members
