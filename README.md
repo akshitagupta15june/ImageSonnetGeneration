@@ -1,4 +1,4 @@
-# Sonnet Generation using an Image
+# Sonnet Generation using Image Captioning
 
 ### GPU USED IS "GeForce GTX 1080 Ti with Compute Capability 6.1"
 
