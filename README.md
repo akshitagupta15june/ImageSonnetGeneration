@@ -14,9 +14,8 @@ Researches that involve both vision and languages have attracted great attention
 
 <img src="https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Images/20.jpeg" width="610px" height="530px">
 
-Image captioning code https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Run.py  Run this code for image caption generation.
+Final code https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/FinalSonnetGenerationCode/finalsonnetrun.ipynb
 
-To accomplish this, I have used an attention-based model, which enables us to see what parts of the image the model focuses on as it generates a caption.
 
 ## SOLUTION ARCHITECTURE
 
@@ -30,6 +29,10 @@ Given an image like the example below, our goal is to generate a caption such as
 ### "a delicious chocolate cake slice".
 
 <img src="https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Images/COCO_train2014_000000548913.jpg" width="590px" height="350px">
+
+Image captioning code https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Run.py  Run this code for image caption generation.
+
+To accomplish this, I have used an attention-based model, which enables us to see what parts of the image the model focuses on as it generates a caption.
 
 ## Image Caption generation Explanation of code run
 
