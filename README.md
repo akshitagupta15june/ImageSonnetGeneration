@@ -163,11 +163,11 @@ The simplest way to use the Keras LSTM model to make predictions is to first sta
 
 # FINAL RESULTS 
 
-<img src="https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Images/20.jpeg" width="590px" height="450px">
+<img src="https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Images/20.jpeg" width="590px" height="500px">
 
 # ANOTHER RESULT
 
-<img src="https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Images/21.jpeg" width="590px" height="450px">
+<img src="https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Images/21.jpeg" width="590px" height="500px">
 
 
 
