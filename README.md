@@ -141,6 +141,12 @@ We can now define our LSTM model. Here we define a single hidden LSTM layer with
 
 The problem is really a single character classification problem with 67 classes and as such is defined as optimizing the log loss (cross entropy), here using the ADAM optimization algorithm for speed.
 
+## Giving the image path and storing caption in result variable
+
+
+<img src="https://github.com/akshitagupta15june/ImageSonnetGeneration/blob/main/Image_Captioning/Images/22.jpeg" width="590px" height="500px">
+
+
 
 ### 4) The network is slow to train (about 300 seconds per epoch). Because of the slowness and because of our optimization requirements, we will use model checkpointing to record all of the network weights to file each time an improvement in loss is observed at the end of the epoch. 
 
@@ -149,6 +155,8 @@ We will use the best set of weights (lowest loss) to instantiate our generative 
 Using Larger LSTM Recurrent Neural Network
 
 <img src="https://github.com/akshitagupta15june/AI_SonnetGeneration/blob/master/Images/4.jpeg" width="590px" height="200px">
+
+
 
 
 ### Generating Text with an LSTM Network
