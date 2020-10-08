@@ -191,7 +191,7 @@ The simplest way to use the Keras LSTM model to make predictions is to first sta
 
 
 
-## As Sonnet is a 14 lines poem so in above results we can see that when user entered a text "sun" the poem which is generated in 14 lines have meaningful words.
+## As Sonnet is a 14 lines poem so in above results we can see that when user entered a caption the poem which is generated in 14 lines have meaningful words.
 
 
 ### Conclusion
